@@ -1,0 +1,8 @@
+Zwykle wlaczenie:
+	cd learning/nowy
+	python3 -m venv tfod
+	source tfod/bin/activate
+	jupyter notebook
+
+Lub uruchomic plik bash:
+	bash jazda.sh
